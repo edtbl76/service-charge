@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: cafe-x-application/.mvn/wrapper/MavenWrapperDownloader.java
+  checksum: adcc73ccaf6cea39ee86a773ce55c39fc1c247023c8a7d116d3ce39b36ba8903
+- filename: cafe-x-application/mvnw
+  checksum: d956c9b635f7ec7eebb9ab83b15915f53793b06f8b87779d9270259b3c84a95f
